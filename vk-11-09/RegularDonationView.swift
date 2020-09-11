@@ -41,8 +41,11 @@ struct RegularDonationContentView: View {
                 FieldAddInfoView(topText: "Автор", insideText: "Матвей правосудов", colorOfTextInside: .black, addArrow: true)
                 .padding(.bottom, 24)
     //                        Spacer()
-                NextButtonView()
+                NavigationLink(destination: SnippetView()
+                    .navigationBarTitle(Text("Сниппет")), label: {
+                    NextButtonView()
                     .padding(.bottom, 22)
+                })
             }.padding()
         }
     }
