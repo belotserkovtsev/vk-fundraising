@@ -21,6 +21,7 @@
 		8434E481250C12830041393D /* Fields+ButtonComponentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8434E480250C12830041393D /* Fields+ButtonComponentsView.swift */; };
 		8434E483250C17710041393D /* AdditionalSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8434E482250C17710041393D /* AdditionalSettingsView.swift */; };
 		8434E485250C27610041393D /* SnippetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8434E484250C27610041393D /* SnippetView.swift */; };
+		84EDD063250CD11C00AE48D4 /* View+CornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EDD062250CD11C00AE48D4 /* View+CornerRadius.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		8434E480250C12830041393D /* Fields+ButtonComponentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fields+ButtonComponentsView.swift"; sourceTree = "<group>"; };
 		8434E482250C17710041393D /* AdditionalSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionalSettingsView.swift; sourceTree = "<group>"; };
 		8434E484250C27610041393D /* SnippetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnippetView.swift; sourceTree = "<group>"; };
+		84EDD062250CD11C00AE48D4 /* View+CornerRadius.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+CornerRadius.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				8434E476250BBD7F0041393D /* DonationTypeView.swift */,
 				17D77D9CC7D586B33D75A671 /* CreateDonationView.swift */,
 				8434E47A250BC4270041393D /* NavigationBarButtonsView.swift */,
+				84EDD062250CD11C00AE48D4 /* View+CornerRadius.swift */,
 				8434E480250C12830041393D /* Fields+ButtonComponentsView.swift */,
 				17D774489E97B87E05B68A72 /* SceneDelegate.swift */,
 				17D777D59E732434943417C0 /* Assets.xcassets */,
@@ -176,6 +179,7 @@
 				8434E485250C27610041393D /* SnippetView.swift in Sources */,
 				17D77F2CF2AAC1A359601487 /* AppDelegate.swift in Sources */,
 				8434E481250C12830041393D /* Fields+ButtonComponentsView.swift in Sources */,
+				84EDD063250CD11C00AE48D4 /* View+CornerRadius.swift in Sources */,
 				8434E47D250BDA5B0041393D /* GoalDonationView.swift in Sources */,
 				17D77AADE3EB8790D59C1D07 /* SceneDelegate.swift in Sources */,
 				8434E47B250BC4270041393D /* NavigationBarButtonsView.swift in Sources */,
